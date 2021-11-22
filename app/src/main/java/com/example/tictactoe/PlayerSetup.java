@@ -21,7 +21,7 @@ public class PlayerSetup extends AppCompatActivity {
         setContentView(R.layout.player_setup);
 //TODO:change the id.player1Name and player2Name
         player1 = findViewById(R.id.editTextTextPersonName);
-        player1 = findViewById(R.id.editTextTextPersonName2);
+        player2 = findViewById(R.id.editTextTextPersonName2);
     }
 
     public void submitButtonClick(View view){
