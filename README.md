@@ -1,5 +1,8 @@
 # TicTacToe
 Project for Android course
+
+
+
 In this assignment I developed a Tic Tac Toe game.
 The game is for two players that plays one against the other with the android
 device.
