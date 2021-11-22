@@ -19,7 +19,7 @@ public class PlayerSetup extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.player_setup);
-//TODO:change the id.player1Name and player2Name
+
         player1 = findViewById(R.id.editTextTextPersonName);
         player2 = findViewById(R.id.editTextTextPersonName2);
     }
